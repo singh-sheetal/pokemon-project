@@ -9,3 +9,4 @@ Not Completed Tasks:
 1. Design for Mobile and Tablet View.
 2. All combinations search string, sort and number of cards to be selected to filter the list is not properly tested.
 3. Selection for 50 cards divided into two pages is not implemented. Although, if we fetch 50 cards at once, the selection would work.
+4. Test cases for fetching the list of pokemons and showing the details of a pokemon are written, although all test scenarios are not covered.
